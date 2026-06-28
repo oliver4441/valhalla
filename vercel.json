@@ -9,6 +9,10 @@
     {
       "src": "data.js",
       "use": "@vercel/static"
+    },
+    {
+      "src": "valhalla-top300.pdf",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
